@@ -9,5 +9,7 @@
   "removed_redundant_AI_copy_to_recycle_bin": 1,
   "semester_sources_changed_by_reference_copy": 0,
   "root_folder_name_and_location_unchanged": true,
-  "remote_push_performed": false
+  "remote_push_performed": false,
+  "large_files_tracked_with_git_lfs": 3,
+  "post_LFS_working_PDF_hashes_verified": 76
 }

@@ -97,3 +97,7 @@ The older local Artificial Intelligence fourth-edition copy was replaced with th
 - The legacy Advanced Engineering Mathematics volume lacks title pages; source-suggested authorship/edition remain unverified.
 - Scanned chapters and teaching slides are references, explicitly distinguished from complete books.
 - No Git push was requested or performed.
+
+## Git storage
+
+Three books exceed 100 MiB and use Git LFS: Vector Mechanics for Engineers (ninth edition), Higher Engineering Mathematics (42nd edition), and Advanced Engineering Mathematics (Stroud/Booth, fourth edition). Local PDFs remain complete and hash-verified. Git LFS is required when cloning those files. Only the new unpublished local commits were migrated; the original initial commit remains unchanged. No push was performed.
