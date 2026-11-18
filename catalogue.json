@@ -588,28 +588,31 @@
       "operation": "copy"
     },
     {
-      "source": "S5/Site-S5-Calculus/Reference Book/Calculus of Vector Fields.pdf",
+      "source": "S5/In24-S5-MA2024-Calculus/References/MA2024-Reference-Chapter-15-Calculus-of-Vector-Fields.pdf",
       "path": "Calculus-of-Vector-Fields-Chapter-15-Excerpt.pdf",
       "sha256": "696a5821d062dfd9b61597aace0dae5bd83baed2f978a24cdae60c5c3d2e5b42",
       "bytes": 32097368,
       "pages": 96,
-      "operation": "copy"
+      "operation": "copy",
+      "original_source_path": "S5/Site-S5-Calculus/Reference Book/Calculus of Vector Fields.pdf"
     },
     {
-      "source": "S5/Site-S5-Calculus/Reference Book/Multiple Integrals.pdf",
+      "source": "S5/In24-S5-MA2024-Calculus/References/MA2024-Reference-Chapter-14-Multiple-Integrals.pdf",
       "path": "Multiple-Integrals-Chapter-14-Excerpt.pdf",
       "sha256": "b01a47b4467e061ccbf867c931b4b42222ed967f81fce7faa8e8f1617c024350",
       "bytes": 34900687,
       "pages": 94,
-      "operation": "copy"
+      "operation": "copy",
+      "original_source_path": "S5/Site-S5-Calculus/Reference Book/Multiple Integrals.pdf"
     },
     {
-      "source": "S5/Site-S5-Calculus/Reference Book/Vector Valued Function.pdf",
+      "source": "S5/In24-S5-MA2024-Calculus/References/MA2024-Reference-Chapter-12-Vector-Valued-Functions-and-Curves-in-Space.pdf",
       "path": "Vector-Valued-Functions-and-Curves-in-Space-Chapter-12-Excerpt.pdf",
       "sha256": "20de5f5b56a962405d5f28136a19019d4c579bf9ee06bb20c2dfe5e0169f7e69",
       "bytes": 19884029,
       "pages": 60,
-      "operation": "copy"
+      "operation": "copy",
+      "original_source_path": "S5/Site-S5-Calculus/Reference Book/Vector Valued Function.pdf"
     }
   ],
   "replaced_files": [
