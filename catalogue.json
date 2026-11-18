@@ -37,10 +37,11 @@
     {
       "original_name": "Artificial Intelligence  A Modern Approach 4th Ed_261118_134831.pdf",
       "path": "Artificial-Intelligence-A-Modern-Approach-Fourth-Edition.pdf",
-      "sha256": "3545ae588e996d99855fc4b57b3b6dd4aca38b947d9d15771771edb9f3d8b79c",
-      "bytes": 38056104,
-      "pages": 2135,
-      "operation": "rename"
+      "sha256": "fe32914552db76ad0981b32fc0605c6c360ae4a7344effb605d69b26a627340e",
+      "bytes": 38525720,
+      "pages": 2145,
+      "operation": "replace-with-fuller-copy",
+      "source": "S3/In24-S3-CS3613-Introduction-to-Artificial-Intelligence/References/CS3613-Reference-Artificial-Intelligence-A-Modern-Approach-4th-Edition-Moodle-In24.pdf"
     },
     {
       "original_name": "artificial_intelligence_tutorial_261118_134741.pdf",
@@ -249,6 +250,404 @@
       "bytes": 44181534,
       "pages": 1421,
       "operation": "rename"
+    },
+    {
+      "source": "S1/In24-S1-MT1023-Properties-of-Materials/References/MT1023-Reference-2Ashey-MF-Jones-D.R.H-Engineering-Material-COntent.pdf",
+      "path": "Engineering-Materials-2-An-Introduction-to-Microstructures-Processing-and-Design-Second-Edition.pdf",
+      "sha256": "900814335d6cd20d89730f55054e78d8844ef819031e56c4cabc851bf2043e37",
+      "bytes": 12052918,
+      "pages": 392,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-MT1023-Properties-of-Materials/References/MT1023-Reference-Ashey-MF-Jones-D.R.H-Engineering-Material-COntent-1.pdf",
+      "path": "Materials-Engineering-Science-Processing-and-Design.pdf",
+      "sha256": "8b86cae091c4641a07da9fecc5b43d96959abe56b39a1d094d069f887848ccf7",
+      "bytes": 17020708,
+      "pages": 527,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-MT1023-Properties-of-Materials/References/MT1023-Reference-William-D-callister-Material-Science-and-engineering-th-edition-John-Wiley-and-Sonc.INC.pdf",
+      "path": "Fundamentals-of-Materials-Science-and-Engineering-Fifth-Edition.pdf",
+      "sha256": "c242290267973f83d6fbc03f32f2cae6e2adb3f3d537a1cec535e277fc4c39ce",
+      "bytes": 24990569,
+      "pages": 952,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-ME1033-Mechanics/References/ME1033-Reference-eBook-Vector-Mechanics-for-Engineers-Statics-and-Dynamics-9th.pdf",
+      "path": "Vector-Mechanics-for-Engineers-Statics-and-Dynamics-Ninth-Edition.pdf",
+      "sha256": "f71625c160ff6b95212c326c7794c3070778fec96f9359d72327836c6d51b0b9",
+      "bytes": 107719431,
+      "pages": 1359,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-ME1033-Mechanics/References/ME1033-Reference-Engineering-Mechanics-DYNAMICS-12th-edition-R.C-Hibbeler-Prentice-Hell.pdf",
+      "path": "Engineering-Mechanics-Dynamics-Twelfth-Edition.pdf",
+      "sha256": "7395d0a615b56556eb5085df79d3f7be46f12de6efcb0e9ab16ed942f8fa2734",
+      "bytes": 42245392,
+      "pages": 750,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-ME1033-Mechanics/References/ME1033-Reference-Mechanics-of-materials-F.P-Beer-and-ER-Johnson-McGraw-Hill-Book-Co.pdf",
+      "path": "Mechanics-of-Materials-Sixth-Edition.pdf",
+      "sha256": "820ea1abe67cb19bea2f2a26b231b7e611cbdbaeef1d1c4cb23e837a0cc04d09",
+      "bytes": 38923246,
+      "pages": 838,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-MA1014-Mathematics/References/MA1014-Course-Notes-Full-note.pdf",
+      "path": "Mathematics-Analysis-and-Algebra-Course-Notes.pdf",
+      "sha256": "db6f5e89e9c1398917aa643bc126d1e6348e8f464ce485c7db53bf336a5c70c9",
+      "bytes": 1878745,
+      "pages": 100,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-MA1014-Mathematics/References/MA1014-Real-Analysis-Reference-Basic-Course-on-Real-Analysis.pdf",
+      "path": "A-Basic-Course-in-Real-Analysis.pdf",
+      "sha256": "1c9faebee6d05521d2fa017bbeb96652eec7e450819d75bccd4a71e9f9806b60",
+      "bytes": 3761372,
+      "pages": 320,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-MA1014-Mathematics/References/MA1014-Real-Analysis-Reference-Introduction-to-Real-Analysis-Robert-G.-Bartle-Donald-R.-Sherbert.pdf",
+      "path": "Introduction-to-Real-Analysis-Fourth-Edition.pdf",
+      "sha256": "2685f3dcf271293aa344e2806caafd84b96976662bf43ea9c4dafd02ddfbbb83",
+      "bytes": 9654702,
+      "pages": 418,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-EE1040-Electrical-Fundamentals/References/EE1040-Reference-Allan-R.-Hambley-Electrical-Engineering-Principles-and-Applications-2010-Prentice-Hall-libgen.lc.pdf",
+      "path": "Electrical-Engineering-Principles-and-Applications-Fifth-Edition.pdf",
+      "sha256": "3357cdaa7752c100afca72dadbcc7015cc262d7a2f0c2f45bb1b10af0734ffc8",
+      "bytes": 40798192,
+      "pages": 913,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-EE1040-Electrical-Fundamentals/References/EE1040-Reference-Electric-circuits-E.A-Edmister-Schum-Outline-series-bt-McGrew-Hill.pdf",
+      "path": "Standard-Handbook-for-Electrical-Engineers.pdf",
+      "sha256": "5d2071e0c8bc6eadaa4f3032400117d5d4f3168d05c08788ed2d46bae79ebb13",
+      "bytes": 44275839,
+      "pages": 1829,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-CS1033-Programming-Fundamentals/References/CS1033-Reference-Mastering-Python-programming-Conceição.pdf",
+      "path": "Mastering-Python-100-Plus-Solved-and-Commented-Exercises.pdf",
+      "sha256": "24890081b380d4c5cdea6fb3571f5ec6a70ebf7e88e264db6f9dd2ad4ea18822",
+      "bytes": 17456192,
+      "pages": 166,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-CS1033-Programming-Fundamentals/References/CS1033-Reference-Python-Cookbook-2nd-Edition-2005.pdf",
+      "path": "Python-Cookbook-Second-Edition.pdf",
+      "sha256": "2ca516d791cfcda28fab5d0e35c4b0c4a498f78eda019f76b45d57eece1d4eac",
+      "bytes": 3315024,
+      "pages": 974,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-CS1033-Programming-Fundamentals/References/CS1033-Reference-Python-Tutorial.pdf",
+      "path": "Python-Tutorial-Tutorials-Point.pdf",
+      "sha256": "255620bf134cb58e58c2e10700bf9130e94232cb7af16d25dbf187b840c15b89",
+      "bytes": 3797281,
+      "pages": 461,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-CS1033-Programming-Fundamentals/References/CS1033-Reference-Think-like-a-computer-scientist-with-Python.pdf",
+      "path": "Think-Python-How-to-Think-Like-a-Computer-Scientist-Version-2.0.1.pdf",
+      "sha256": "7c4302f9751d13d81aba19f554a7f4495471b240af2d89145228b8919df71087",
+      "bytes": 884709,
+      "pages": 240,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-CE1023-Fluid-Mechanics/References/CE1023-Reference-Fluid-Mechanics-5th-Douglas.pdf",
+      "path": "Fluid-Mechanics-Fifth-Edition-Douglas-Gasiorek-Swaffield.pdf",
+      "sha256": "47a5769b66769558ce1921373ca54394d77336a6d4b64c0a9884631067607b1d",
+      "bytes": 25679223,
+      "pages": 993,
+      "operation": "copy"
+    },
+    {
+      "source": "S1/In24-S1-CE1023-Fluid-Mechanics/References/CE1023-Reference-K-Subramanya-Fluid-mechanics-and-hydraulic-machines-problems-and.pdf",
+      "path": "Fluid-Mechanics-and-Hydraulic-Machines-Problems-and-Solutions.pdf",
+      "sha256": "eb6e2ef14b98457cc10c7c5688a179801cf4c4ba5b67c9c6ad509ec7724a87c3",
+      "bytes": 65541469,
+      "pages": 647,
+      "operation": "copy"
+    },
+    {
+      "source": "S2/In24-S2-MA1024-Methods-of-Mathematics/References/MA1024-Multivariable-Calculus-and-PDEs-Reference-Differential-Equations-Paul-Dawkins.pdf",
+      "path": "Differential-Equations-Paul-Dawkins.pdf",
+      "sha256": "06775e46341cba70f68c86012567435a4efcea01cb876ed0d451560549700c03",
+      "bytes": 3671229,
+      "pages": 503,
+      "operation": "copy"
+    },
+    {
+      "source": "S2/In24-S2-MA1024-Methods-of-Mathematics/References/MA1024-Probability-and-Statistics-Reference-Applied-Statistics-and-Probability-for-Engineers-Montgomery-and-Runger.pdf",
+      "path": "Applied-Statistics-and-Probability-for-Engineers-Sixth-Edition.pdf",
+      "sha256": "c3d2cdad3ca28cd5483cc544fd0d98985eb7df24a85a5e3fdb06bd888a4d962c",
+      "bytes": 17002353,
+      "pages": 836,
+      "operation": "copy"
+    },
+    {
+      "source": "S2/In24-S2-MA1024-Methods-of-Mathematics/References/MA1024-Probability-and-Statistics-Reference-Schaum's-Probability-and-Statistics.pdf",
+      "path": "Schaums-Outline-of-Theory-and-Problems-of-Probability-and-Statistics.pdf",
+      "sha256": "a6ef30151ca0d0f2e93ea7e7f43bd732db8216267356c0a3d9e268abd37ce3d4",
+      "bytes": 69018092,
+      "pages": 376,
+      "operation": "copy"
+    },
+    {
+      "source": "S2/In24-S2-MA1024-Methods-of-Mathematics/References/MA1024-Probability-and-Statistics-Reference-Solutions-Applied-Statistics-And-Probability-For-Engineers-(Solutions)-Montgomery,-Runger.pdf",
+      "path": "Applied-Statistics-and-Probability-for-Engineers-Third-Edition-Solutions.pdf",
+      "sha256": "20c856cca3b1afcf400fa13f9749f30651c773cde15f6bf92a3a0ec04e92eeed",
+      "bytes": 1890740,
+      "pages": 157,
+      "operation": "copy"
+    },
+    {
+      "source": "S2/In24-S2-MA1024-Methods-of-Mathematics/References/MA1024-Reference-(Prentice-Hall-Mathematics-Series)-David-V.-Widder-Advanced-Calculus-Prentice-Hall-(1947-).pdf",
+      "path": "Advanced-Calculus-David-V-Widder.pdf",
+      "sha256": "d3ca2e1219fcdf9944bc06586796ada260c0dda6248e6120c8714e2117415c1d",
+      "bytes": 43677444,
+      "pages": 228,
+      "operation": "copy"
+    },
+    {
+      "source": "S2/In24-S2-MA1024-Methods-of-Mathematics/References/MA1024-Reference-Richard-L.-Burden,-J.-Douglas-Faires-Numerical-Analysis.pdf",
+      "path": "Numerical-Analysis-Ninth-Edition.pdf",
+      "sha256": "c5af17c41cc4049f9b3f028ad513182d316d6d1c7a1d683250fb18bda2e48d6d",
+      "bytes": 15231115,
+      "pages": 895,
+      "operation": "copy"
+    },
+    {
+      "source": "S2/In24-S2-EL1030-Language-Skills-Enhancement/References/EL1030-Reference-Models-for-Writers-Short-Essays-for-Composition,-12th-Edition.pdf",
+      "path": "Models-for-Writers-Short-Essays-for-Composition-Twelfth-Edition.pdf",
+      "sha256": "d0cb1b64c82664e5d0aca73efdc2867cdcebd810f4cdf25d00af43e3f95361f6",
+      "bytes": 7985675,
+      "pages": 724,
+      "operation": "copy"
+    },
+    {
+      "source": "S2/In24-S2-CS1050-Computer-Organization-and-Digital-Design/References/CS1050-Hardware-or-Tool-Manual-Microprocessor-Simulator-V5.0-Help.pdf",
+      "path": "Microprocessor-Simulator-Version-5-Help.pdf",
+      "sha256": "9b760f545ed04508150656364f308d506913fc0222540fa2654174ceb32953bd",
+      "bytes": 1725778,
+      "pages": 80,
+      "operation": "copy"
+    },
+    {
+      "source": "S3/In24-S3-ME1823-Fundamentals-of-Engineering-Thermodynamics/References/ME1823-Reference-Applied_Thermodynamics_and_engineering_F.pdf",
+      "path": "Applied-Thermodynamics-for-Engineering-Technologists-Fifth-Edition.pdf",
+      "sha256": "0b803d40943315882455eb4c7acb5eff82f491a5fdd126fbbd726132f2399318",
+      "bytes": 25926936,
+      "pages": 593,
+      "operation": "copy"
+    },
+    {
+      "source": "S3/In24-S3-ME1823-Fundamentals-of-Engineering-Thermodynamics/References/ME1823-Reference-Engineering-Thermodynamics.pdf",
+      "path": "Thermodynamics-An-Engineering-Approach-Fifth-Edition-With-Errata.pdf",
+      "sha256": "4adde2f82dc6d7b3d841f2dc919793c9a7d1b67aeb40a6f705be552f14417208",
+      "bytes": 23400628,
+      "pages": 962,
+      "operation": "copy"
+    },
+    {
+      "source": "S3/In24-S3-MA2014-Differential-Equations/References/MA2014-Reference-BSG.pdf",
+      "path": "Higher-Engineering-Mathematics-Forty-Second-Edition.pdf",
+      "sha256": "1c4cdadcacb0c1db163dcf17dc8bd89f983611792d4652c2ec533720d00a3850",
+      "bytes": 154124637,
+      "pages": 1327,
+      "operation": "copy"
+    },
+    {
+      "source": "S3/In24-S3-MA2014-Differential-Equations/References/MA2014-Reference-HELM-2008-Workbook-48-Engineering-Case-Studies.pdf",
+      "path": "HELM-Workbook-48-Engineering-Case-Studies-2008.pdf",
+      "sha256": "4d8bbc1afac90cb827a65cd10f7e4c0133a264b36042f9e7e8a1832dedfb7eb0",
+      "bytes": 813993,
+      "pages": 97,
+      "operation": "copy"
+    },
+    {
+      "source": "S3/In24-S3-MA2014-Differential-Equations/References/MA2014-Reference-K.A._Stroud-_Dexter_J._Booth-_Advanced_Engineerin.pdf",
+      "path": "Advanced-Engineering-Mathematics-Stroud-and-Booth-Fourth-Edition.pdf",
+      "sha256": "c9e39d24592acd456e8d7925406ae07f0d683cba5205561a57b4c145fc06b7db",
+      "bytes": 259972366,
+      "pages": 1057,
+      "operation": "copy"
+    },
+    {
+      "source": "S3/In24-S3-MA2014-Differential-Equations/References/MA2014-Reference-Matematicas-Avanzadas-para-Ingenieria-Dennis-Zill-4ta-edicion-solucionario.pdf",
+      "path": "Advanced-Engineering-Mathematics-Legacy-Volume-Front-Matter-Missing.pdf",
+      "sha256": "08e1c21053061cf954179739ba8c0e948a6377512d01861d8d1507a42226d466",
+      "bytes": 31321054,
+      "pages": 945,
+      "operation": "copy"
+    },
+    {
+      "source": "S3/In24-S3-MA2014-Differential-Equations/References/MA2014-Reference-Tai-Ran-Hsu-Application-of-Second-order-Differential-Equations.pdf",
+      "path": "Applied-Engineering-Analysis-Chapter-8-Second-Order-Differential-Equations-Teaching-Slides.pdf",
+      "sha256": "917c073e7e7d81b471a509da24388e171bb5c1f681f91735bce2cae8d057aa56",
+      "bytes": 2222730,
+      "pages": 70,
+      "operation": "copy"
+    },
+    {
+      "source": "S3/In24-S3-CS2053-Computer-Architecture/References/CS2053-Reference-CompanionAsset_9780128119051_chapter03-Moodle-In24.pdf",
+      "path": "Computer-Organization-and-Design-Companion-Chapter-3-Arithmetic-for-Computers.pdf",
+      "sha256": "ac6e4d3753643ad37d6c1ab133b8e9ca69a8eeacd9a3f598078ced057c412d6e",
+      "bytes": 3095048,
+      "pages": 62,
+      "operation": "copy"
+    },
+    {
+      "source": "S3/In24-S3-CS2043-Operating-Systems/References/CS2043-Reference-What-Every-Programmer-Should-Know-About-Memory-Moodle-In24.pdf",
+      "path": "What-Every-Programmer-Should-Know-About-Memory.pdf",
+      "sha256": "2902dddcadb1ec97eeabd338bfaabf80f1fa2ff4e4d769b4052da88bfbb20387",
+      "bytes": 934051,
+      "pages": 114,
+      "operation": "copy"
+    },
+    {
+      "source": "S4/Source-S4-CS3121-Introduction-to-Data-Science/References/CS3121-Reference-Art-of-Data-Science-Older-Syllabus.pdf",
+      "path": "The-Art-of-Data-Science.pdf",
+      "sha256": "265a6da734bc8062acf4b8e732bcce49de39a6f67f18bf9d3fe112343f549412",
+      "bytes": 6512753,
+      "pages": 159,
+      "operation": "copy"
+    },
+    {
+      "source": "S4/Source-S4-CS3121-Introduction-to-Data-Science/References/CS3121-Reference-Data-Mining-Know-It-All-ACA22-Collection.pdf",
+      "path": "Data-Mining-Know-It-All.pdf",
+      "sha256": "7c7c13b54a10e3c37fd21c6a2a8bc187637f464eb0c2049d794ef0777656697f",
+      "bytes": 6870183,
+      "pages": 477,
+      "operation": "copy"
+    },
+    {
+      "source": "S4/Source-S4-CS3121-Introduction-to-Data-Science/References/CS3121-Reference-Tableau-Your-Data-Fast-and-Easy-Visual-Analysis-with-Tableau-Software-Older-Syllabus.pdf",
+      "path": "Tableau-Your-Data-Fast-and-Easy-Visual-Analysis-with-Tableau-Software.pdf",
+      "sha256": "1dc5fbc0efae16b0ecd6da4d71a1d1d83ca29b75fbcde0a5ea37c9b007eac3ad",
+      "bytes": 36115795,
+      "pages": 530,
+      "operation": "copy"
+    },
+    {
+      "source": "S4/Source-S4-CS3121-Introduction-to-Data-Science/References/CS3121-Reference-Visualization-Analysis-and-Design-Older-Syllabus.pdf",
+      "path": "Visualization-Analysis-and-Design.pdf",
+      "sha256": "d161e9f64f8658609719c4075c544324cfcc21dd26ba76ae5075cfa1f00c22a7",
+      "bytes": 62112030,
+      "pages": 422,
+      "operation": "copy"
+    },
+    {
+      "source": "S4/In24-S4-CS3243-IoT-Devices-and-Applications/References/CS3243-Reference-Adrian-McEwen-Hakim-Cassimally-Designing-the-Internet-of-Things-Wiley-(2013)-ACA22-Collection.pdf",
+      "path": "Designing-the-Internet-of-Things.pdf",
+      "sha256": "a890ba06d746e99cc39a4b524a83f58e649e23bb796ff24b7ae25389fc945c7c",
+      "bytes": 16906993,
+      "pages": 353,
+      "operation": "copy"
+    },
+    {
+      "source": "S4/In24-S4-CS3243-IoT-Devices-and-Applications/References/CS3243-Reference-Internet-of-Things-(IoT)-Systems-Architectures-Algorithms-Methodologies-ACA22-Collection.pdf",
+      "path": "Internet-of-Things-Systems-Architectures-Algorithms-Methodologies.pdf",
+      "sha256": "87f85807e527b93c7af0879caa1e1361c41ce563bfe202ea3fe408ea5a33ba2a",
+      "bytes": 1855976,
+      "pages": 102,
+      "operation": "copy"
+    },
+    {
+      "source": "S4/In24-S4-CS3063-Theory-of-Computing/References/CS3063-Reference-John-Martin-Introduction-to-Languages-and-the-Theory-of-Computation-(4th-Edition)-McGraw-Hill-Science-Engineering-Math-(2010)-ACA22-Collection.pdf",
+      "path": "Introduction-to-Languages-and-the-Theory-of-Computation-Fourth-Edition.pdf",
+      "sha256": "ea5562a3271b5fa637bfb3f8cf115d3767eac160513be76f7c911491003c1ae6",
+      "bytes": 3446066,
+      "pages": 449,
+      "operation": "copy"
+    },
+    {
+      "source": "S4/In24-S4-CS3023-Software-Engineering/References/CS3023-Reference-Sommerville-Software-Engineering-9th-Edition-ACA22-Collection.pdf",
+      "path": "Software-Engineering-Ninth-Edition.pdf",
+      "sha256": "14b7d1116636704036165c75ee454f148ad8b07cd19f15e812453b70ceda0bb0",
+      "bytes": 5214782,
+      "pages": 790,
+      "operation": "copy"
+    },
+    {
+      "source": "S5/Site-S5-Calculus/Reference Book/Calculus of Vector Fields.pdf",
+      "path": "Calculus-of-Vector-Fields-Chapter-15-Excerpt.pdf",
+      "sha256": "696a5821d062dfd9b61597aace0dae5bd83baed2f978a24cdae60c5c3d2e5b42",
+      "bytes": 32097368,
+      "pages": 96,
+      "operation": "copy"
+    },
+    {
+      "source": "S5/Site-S5-Calculus/Reference Book/Multiple Integrals.pdf",
+      "path": "Multiple-Integrals-Chapter-14-Excerpt.pdf",
+      "sha256": "b01a47b4467e061ccbf867c931b4b42222ed967f81fce7faa8e8f1617c024350",
+      "bytes": 34900687,
+      "pages": 94,
+      "operation": "copy"
+    },
+    {
+      "source": "S5/Site-S5-Calculus/Reference Book/Vector Valued Function.pdf",
+      "path": "Vector-Valued-Functions-and-Curves-in-Space-Chapter-12-Excerpt.pdf",
+      "sha256": "20de5f5b56a962405d5f28136a19019d4c579bf9ee06bb20c2dfe5e0169f7e69",
+      "bytes": 19884029,
+      "pages": 60,
+      "operation": "copy"
     }
+  ],
+  "replaced_files": [
+    {
+      "original_name": "Artificial Intelligence  A Modern Approach 4th Ed_261118_134831.pdf",
+      "path": "Artificial-Intelligence-A-Modern-Approach-Fourth-Edition.pdf",
+      "sha256": "3545ae588e996d99855fc4b57b3b6dd4aca38b947d9d15771771edb9f3d8b79c",
+      "bytes": 38056104,
+      "pages": 2135,
+      "operation": "rename",
+      "reason": "All 2124 nonempty existing page texts match the 2145-page source; keep fuller source with front matter.",
+      "disposition": "Windows Recycle Bin"
+    }
+  ],
+  "limitations": [
+    "Publication/edition fields come from inspected covers, copyright pages and contents; unverified editions omitted.",
+    "The legacy Advanced Engineering Mathematics volume lacks title pages; its original source label suggests Zill but authorship/edition remain unverified.",
+    "Python Tutorial has a mismatched Financial Accounting cover; body is Python.",
+    "Chapter excerpts and teaching slides remain explicitly labelled.",
+    "Copies are local; no remote push or cloud synchronisation verification."
+  ],
+  "semester_candidates_reviewed": 61,
+  "copy_count": 45,
+  "existing_equivalent_titles_not_copied": [
+    "S2/In24-S2-CS2023-Data-Structures-and-Algorithms/References/CS2023-Reference-Introduction-to-Algorithms-4th-Edition.pdf",
+    "S2/In24-S2-CS1050-Computer-Organization-and-Digital-Design/References/CS1050-Reference-Computer-Architecture-A-Quantitative-Approach-Fourth-Edition.pdf",
+    "S2/In24-S2-CS1050-Computer-Organization-and-Digital-Design/References/CS1050-Reference-Digital-Design-Principles-and-Practices-Wakerly.pdf",
+    "S2/In24-S2-CS1040-Program-Construction/References/CS1040-Reference-Design-Patterns-Elements-of-Reusable-Object-Oriented-Software.pdf",
+    "S2/In24-S2-CS1040-Program-Construction/References/CS1040-Reference-Head-First-Design-Patterns.pdf",
+    "S2/In24-S2-CS1040-Program-Construction/References/CS1040-Reference-Head-First-Java-Third-Edition.pdf",
+    "S3/In24-S3-MA2014-Differential-Equations/References/MA2014-Reference-download-advanced-engineering-mathematics-4th-ed-k-stroud-signed.pdf",
+    "S3/In24-S3-MA2014-Differential-Equations/References/MA2014-Reference-Engineering-Mathematics-H.K.Dass.pdf",
+    "S3/In24-S3-CS3613-Introduction-to-Artificial-Intelligence/References/CS3613-Reference-Python-Programming-Hans-Petter-Halvorsen-Moodle-In24.pdf",
+    "S3/In24-S3-CS3043-Database-Systems/References/CS3043-Reference-Database_System_Concepts_7th.pdf",
+    "S3/In24-S3-CS2053-Computer-Architecture/References/CS2053-Reference-Computer-Organization-and-Design-RISC-V-edition.pdf",
+    "S3/In24-S3-CS2053-Computer-Architecture/References/CS2053-Reference-John-L.-Hennessy-David-A.-Patterson-Computer-Architecture_-A-Quantitative-Approach-4th-Ed-0c157bf4.pdf",
+    "S3/In24-S3-CS2053-Computer-Architecture/References/CS2053-Reference-riscv-spec-20191213.pdf",
+    "S3/In24-S3-CS2043-Operating-Systems/References/CS2043-Reference-Abraham-Silberschatz-Greg-Gagne-Peter-B.-Galvin-Operating-System-Concepts-Wiley-2018.pdf",
+    "S4/Source-S4-CS3121-Introduction-to-Data-Science/References/CS3121-Reference-Head-First-Statistics-Older-Syllabus.pdf"
   ]
 }
