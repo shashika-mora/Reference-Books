@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-18",
+  "scope": "Root Reference-Books academic and career collection",
+  "files": [
+    {
+      "original_name": "Abraham Silberschatz, Greg Gagne, Peter B Galvin _261118_134900.pdf",
+      "path": "Operating-System-Concepts-Tenth-Edition.pdf",
+      "sha256": "33bed013983ff2cc49dacae4b053204b5d4a34513b3aebb216e3d1a2678e940e",
+      "bytes": 30685682,
+      "pages": 1278,
+      "operation": "rename"
+    },
+    {
+      "original_name": "AbrahamSilberschatzHenryFKorthSSudarshanD_261118_134753.pdf",
+      "path": "Database-System-Concepts-Seventh-Edition.pdf",
+      "sha256": "7c19c9ba96a4eb1ae4f79fdf119028e2a73a3f83b56b0384969c26b71897f073",
+      "bytes": 16598636,
+      "pages": 1373,
+      "operation": "rename"
+    },
+    {
+      "original_name": "ADVANCED-ENG-MATH-BY-H.K-DASS.pdf",
+      "path": "Advanced-Engineering-Mathematics-H-K-Dass-Twenty-First-Revised-Edition.pdf",
+      "sha256": "88caa3fc3986d11f51f1bcbea4b3499280e89a6a2dd6287b691201ffd8731cce",
+      "bytes": 19261179,
+      "pages": 1332,
+      "operation": "rename"
+    },
+    {
+      "original_name": "aPToP_261118_135215.pdf",
+      "path": "A-Practical-Theory-of-Programming-2025-09-27-Edition.pdf",
+      "sha256": "3da0724c42a2eb6df7d48628d993fb2d9e7e6697678c77bf9fc1131ad04a9a21",
+      "bytes": 2828325,
+      "pages": 253,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Artificial Intelligence  A Modern Approach 4th Ed_261118_134831.pdf",
+      "path": "Artificial-Intelligence-A-Modern-Approach-Fourth-Edition.pdf",
+      "sha256": "3545ae588e996d99855fc4b57b3b6dd4aca38b947d9d15771771edb9f3d8b79c",
+      "bytes": 38056104,
+      "pages": 2135,
+      "operation": "rename"
+    },
+    {
+      "original_name": "artificial_intelligence_tutorial_261118_134741.pdf",
+      "path": "Artificial-Intelligence-Tutorial-Tutorials-Point.pdf",
+      "sha256": "1a5af591c472a55271fec006887f9ebd69b0e36bbb497fded023c151e4a699b6",
+      "bytes": 1675707,
+      "pages": 68,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Computer Organization and Design RISCV edition_261118_134810.pdf",
+      "path": "Computer-Organization-and-Design-The-Hardware-Software-Interface-RISC-V-Edition.pdf",
+      "sha256": "f051c0b6e4372cc0b9bcdcbd24677cba761e955127ba9792388bcb478bc58665",
+      "bytes": 36088338,
+      "pages": 1665,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Data Structure and Algorithm Analysis in C++ 4th ed.pdf",
+      "path": "Data-Structures-and-Algorithm-Analysis-in-Cpp-Fourth-Edition.pdf",
+      "sha256": "d3510f9b88bb8ea0178d980772657c5a485a0ae319816ede9ef620c65b643f76",
+      "bytes": 4412241,
+      "pages": 654,
+      "operation": "rename"
+    },
+    {
+      "original_name": "data_and_computer_communication_8th_edition_by_wil_261118_134740.pdf",
+      "path": "Data-and-Computer-Communications-Eighth-Edition.pdf",
+      "sha256": "73ef105db66b7121372ac6313479ca11ce8af4b3ccbff009299d31ace84dca7c",
+      "bytes": 5665327,
+      "pages": 901,
+      "operation": "rename"
+    },
+    {
+      "original_name": "David A Patterson, David Patterson  Computer Org_261118_134842.pdf",
+      "path": "Computer-Architecture-A-Quantitative-Approach-Second-Edition-Front-Matter-Missing.pdf",
+      "sha256": "74f12bff592d25dbe97fce86fc9ede7a1eededc6d5629206aae7876d56716d40",
+      "bytes": 3064662,
+      "pages": 912,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Design Patterns_  Elements of Reusable ObjectOri_261118_134735.pdf",
+      "path": "Design-Patterns-Elements-of-Reusable-Object-Oriented-Software.pdf",
+      "sha256": "cca261576a0df8796f7a00ba84467c42a04566eb7022e705e198037246902cf5",
+      "bytes": 1730768,
+      "pages": 429,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Head First Algebra_261118_134725.pdf",
+      "path": "Head-First-Algebra.pdf",
+      "sha256": "eb39f2929ed87ccc58893d61b09e1816271176f5eb9b850367cfb279df65fd02",
+      "bytes": 30608025,
+      "pages": 561,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Head First C O'reilly-david-grifffiths-dawn-griffiths.pdf",
+      "path": "Head-First-C.pdf",
+      "sha256": "064d930476797f735b5adbc5c042cd4d2d579db41236f8a6c0db97132a5b7ab0",
+      "bytes": 56340955,
+      "pages": 632,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Head First Design Patterns - Building Extensible and Maintainable Object-Oriented Software - Eric Freeman, Elisabeth Robson - O'Reilly Media (2020).pdf",
+      "path": "Head-First-Design-Patterns-Second-Edition.pdf",
+      "sha256": "4a97711f4533c45bd25c37a21de3d2f6e7dfcf11f801ebd78ef693f4d2bde484",
+      "bytes": 49899830,
+      "pages": 672,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Head First Java  A BrainFriendly Guide_261118_134907.pdf",
+      "path": "Head-First-Java-Third-Edition.pdf",
+      "sha256": "baf5688af381bad3cc266bbba6b4d62d594d45a8e1300e96c4bfb5dc86b4229d",
+      "bytes": 61810558,
+      "pages": 755,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Head First Networking.pdf",
+      "path": "Head-First-Networking.pdf",
+      "sha256": "168b5d52371bdfcd9463408488e82e97e72729b77b095271d45a00d04b27a829",
+      "bytes": 40185311,
+      "pages": 538,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Head First Object Oriented Analysis and Design Nov 2006.pdf",
+      "path": "Head-First-Object-Oriented-Analysis-and-Design.pdf",
+      "sha256": "14f78288b2862d797663336aed254df4f892eaf002e8c370042c850a262a7650",
+      "bytes": 53508983,
+      "pages": 632,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Head First Python_261118_134720.pdf",
+      "path": "Head-First-Python-Third-Edition.pdf",
+      "sha256": "8e48fb3a4112792be38acd9f2a760c343b522d60ab98fffefc46f2bd40d1e6b2",
+      "bytes": 42213388,
+      "pages": 666,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Head first software architecture.pdf",
+      "path": "Head-First-Software-Architecture-Chapter-1-Sample.pdf",
+      "sha256": "f9b6313cca1559998a925b88a71ca0cb352cf12b2e6dfa6353215864f0603537",
+      "bytes": 7512476,
+      "pages": 40,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Head First SQL -ebooksfeed.com.pdf",
+      "path": "Head-First-SQL.pdf",
+      "sha256": "3f9f22b959f30ea470ebf220cadf105b48e1faaf2334e65d7c8e2bbe205639a7",
+      "bytes": 50749869,
+      "pages": 586,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Head First Statistics_261118_134731.pdf",
+      "path": "Head-First-Statistics.pdf",
+      "sha256": "e893726c7fe2ebd5a041a20d37a4803b1d7456bf7d9fea9d51225e7d9e8486a3",
+      "bytes": 42492252,
+      "pages": 721,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Introduction to Algorithms 4th Edition_261118_134919.pdf",
+      "path": "Introduction-to-Algorithms-Fourth-Edition.pdf",
+      "sha256": "721785e5ba8deff1ab37c827466ce5bdc1e8bbce4c8a21cb7ac1182db9fc22ac",
+      "bytes": 12578891,
+      "pages": 1280,
+      "operation": "rename"
+    },
+    {
+      "original_name": "John F Wakerly  Digital Design, Principles and P_261118_134931.pdf",
+      "path": "Digital-Design-Principles-and-Practices.pdf",
+      "sha256": "79d42a3808fdcd66cfccc99206ef9c8bffe694cc8513be34cbab0269d8319c48",
+      "bytes": 5607489,
+      "pages": 927,
+      "operation": "rename"
+    },
+    {
+      "original_name": "John L Hennessy, David A Patterson  Computer Ar_261118_134849.pdf",
+      "path": "Computer-Architecture-A-Quantitative-Approach-Fourth-Edition.pdf",
+      "sha256": "bc04cc81be787a5f76e3be7784625bd3bb84f9ff463ec23d15e6093078a27e1e",
+      "bytes": 11159414,
+      "pages": 705,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Python Programming_261118_134812.pdf",
+      "path": "Python-Programming-Hans-Petter-Halvorsen-2020.pdf",
+      "sha256": "0a2fefeb0a0396edb74cb43a50ae5659bf741d42cf8d8574ad7701b32298244e",
+      "bytes": 3493568,
+      "pages": 140,
+      "operation": "rename"
+    },
+    {
+      "original_name": "pythonlearn_261118_134933.pdf",
+      "path": "Python-for-Everybody-Exploring-Data-Using-Python-3-2024-01-01.pdf",
+      "sha256": "103f5c85fe2d64bd4464c998ffef1310b9a730a770171ba4e429f6f1912181b3",
+      "bytes": 2247239,
+      "pages": 241,
+      "operation": "rename"
+    },
+    {
+      "original_name": "R_261118_135011.pdf",
+      "path": "R-A-Language-and-Environment-for-Statistical-Computing-Reference-Index-4.5.1.pdf",
+      "sha256": "e79133a8142afa51928fbf9d614f5bb810362d87660f5ac356a766f6e12de213",
+      "bytes": 18003585,
+      "pages": 3946,
+      "operation": "rename"
+    },
+    {
+      "original_name": "RISCV Reference Card_261118_134757.pdf",
+      "path": "RISC-V-Reference-James-Zhu.pdf",
+      "sha256": "e16eb1f69871448a936e18f26a17b37757db90324d46a2ebf2221c5a5cb213bf",
+      "bytes": 166730,
+      "pages": 5,
+      "operation": "rename"
+    },
+    {
+      "original_name": "riscvspec20191213_261118_134756.pdf",
+      "path": "The-RISC-V-Instruction-Set-Manual-Volume-I-Unprivileged-ISA-20191213.pdf",
+      "sha256": "5a8e59111f7a7f798e89e4d3c8cd2edb3e163d823fd2d8a34fe2528f6a99bba1",
+      "bytes": 1167990,
+      "pages": 238,
+      "operation": "rename"
+    },
+    {
+      "original_name": "sqlcheatsheet_261118_134909.pdf",
+      "path": "SQL-Cheat-Sheet-SQLTutorial.pdf",
+      "sha256": "297df461d2f613463850720ee007e83d1be8ccbe59497491a26cf771bdcc76b5",
+      "bytes": 1978028,
+      "pages": 1,
+      "operation": "rename"
+    },
+    {
+      "original_name": "Stewart J., Clegg D., Watson S. Calculus. Early Transcendentals 9ed 2020.pdf",
+      "path": "Calculus-Early-Transcendentals-Ninth-Edition.pdf",
+      "sha256": "7d6866dec1ef99f8605e931e7a4406e66338096bb750c0c1eaac598ae2add57e",
+      "bytes": 44181534,
+      "pages": 1421,
+      "operation": "rename"
+    }
+  ]
+}
